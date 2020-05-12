@@ -1,3 +1,3 @@
-const SkippedReporter = require('./SkippedReporter');
+const ToDoReporter = require('./ToDoReporter');
 
-module.exports = SkippedReporter;
+module.exports = ToDoReporter;

@@ -1,10 +1,10 @@
 {
-  "name": "jest-skipped-reporter",
-  "version": "0.0.5",
-  "description": "Report skipped tests in Jest",
+  "name": "jest-todo-reporter",
+  "version": "0.0.1",
+  "description": "Report todo tests in Jest",
   "main": "index.js",
-  "repository": "https://github.com/rickhanlonii/jest-skipped-reporter",
-  "author": "rickhanlonii <rickhanlonii@gmail.com>",
+  "repository": "https://github.com/baybara-pavel/jest-todo-reporter",
+  "author": "baybara-pavel <baybara.pavel@gmail.com>",
   "license": "MIT",
   "scripts": {
     "prettier": "prettier --write **/**.js **/**.md"

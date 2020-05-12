@@ -1,21 +1,20 @@
 <h1 align="center">
-  <p>Jest Skipped Reporter</p>
-  <img src="http://dp.hanlon.io/0V3B041h3D25/skipped.png" height="150" width="300"/>
+  <p>Jest TODO Reporter</p>
 </h1>
-Report skipped tests in Jest
+Report todo tests in Jest
 
 ## Installation
 
 Using yarn:
 
 ```bash
-$ yarn add -D jest-skipped-reporter
+$ yarn add -D jest-todo-reporter
 ```
 
 Using npm:
 
 ```bash
-$ npm i -D jest-skipped-reporter
+$ npm i -D jest-todo-reporter
 ```
 
 ## Usage
@@ -23,14 +22,14 @@ $ npm i -D jest-skipped-reporter
 Jest CLI:
 
 ```bash
-jest --reporters jest-skipped-reporter
+jest --reporters jest-todo-reporter
 ```
 
 Jest Config:
 
 ```json
 {
-  "reporters": ["jest-skipped-reporter"]
+  "reporters": ["jest-todo-reporter"]
 }
 ```
 
